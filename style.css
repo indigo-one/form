@@ -1,0 +1,7 @@
+html, body {
+  margin: 40px;
+  padding: 0;
+}
+.err {
+  outline: 1px solid red;
+}
